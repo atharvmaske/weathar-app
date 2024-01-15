@@ -4,6 +4,10 @@
 
 This is a simple weather app that allows users to check the current weather conditions of a specific location. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface and fetches real-time weather data from a weather API.
 
+
+![image](https://github.com/atharvmaske/weathar-app/assets/132181444/cea75772-9871-49e4-8668-bf861410d0df)
+
+
 ## Features
 
 - **Current Weather Display**: Get the current temperature, weather description, and other relevant information.
